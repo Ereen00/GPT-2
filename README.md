@@ -1,6 +1,6 @@
 Orijinal GPT-2 modeli değiştirilerek ve türkçe metinleri de işleyebilmesi sağlanarak değiştirildi. 
 Proje Data_cleaning, Tokenizing ve Main_model olarak üçe ayrılıyor. 
-Model ile daha önce Nutuk metni eğitildi fakat şu anda içerisinde hiç bir dataseti bulunmuyor. Kullanıcılar kendi datasetlerini aşağıdaki adımlardan geçirerek modeli eğitip kullanabilirler.
+Model ile daha önce Nutuk metni ile eğitildi fakat şu anda içerisinde hiç bir dataseti bulunmuyor. Kullanıcılar kendi datasetlerini aşağıdaki adımlardan geçirerek modeli eğitip kullanabilirler.
 
 -----------------------------------------------------------------------------
 
